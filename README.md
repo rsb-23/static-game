@@ -1,0 +1,2 @@
+# static-game
+practice
